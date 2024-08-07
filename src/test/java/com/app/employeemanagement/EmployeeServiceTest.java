@@ -2,6 +2,7 @@ package com.app.employeemanagement;
 
 import com.app.employeemanagement.entity.Employee;
 import com.app.employeemanagement.repository.EmployeeRepository;
+import com.app.employeemanagement.service.EmployeeService;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
